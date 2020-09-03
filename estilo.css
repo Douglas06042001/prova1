@@ -1,0 +1,30 @@
+.texto{
+    width: 100%;
+}
+.xuxa{
+    width: 100%; 
+    margin: 0 auto;
+    text-align: center;
+}
+.texto{
+    text-align: center;
+}
+.xuxa div{
+    width: 16.5%; 
+    display: inline-block;
+    margin: 5px 20px;
+    vertical-align: top;
+}
+.xuxa img{
+    height: 300px;
+    width: 100%;
+}
+body{
+    margin: 100px;
+    border: 1px solid;
+    padding: 50px;
+}
+.texto h1{
+    font-size: 40px;
+    font-weight: bold;
+}
